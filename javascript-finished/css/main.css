@@ -1,5 +1,7 @@
 :root {
-  background-image: url();
+  background-image: url(../img/milkyway.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   --clr-light: #f4f4f4;
   --clr-dark: rgb(0, 0, 0);
   --clr-warning: rgb(249, 217, 217);
