@@ -8,6 +8,6 @@ I plan to add a dynamic background to it so it can display different space image
 
 I plan to add time to diplay on the top right hand corner
 
-## Tutorial videoas are availble at:
+## Tutorial videos are availble at:
 - Kevin's video (HTML & CSS) - https://youtu.be/IhmSidOJSeE
 - Web Dev Simplified's video (JS) - https://youtu.be/W7FaYfuwu70  
