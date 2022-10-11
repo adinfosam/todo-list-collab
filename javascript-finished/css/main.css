@@ -1,8 +1,8 @@
 :root {
-  --clr-primary: rgb(54, 112, 199);
+  background-image: url();
   --clr-light: #f4f4f4;
-  --clr-dark: #333;
-  --clr-warning: rgb(99, 36, 36);
+  --clr-dark: rgb(0, 0, 0);
+  --clr-warning: rgb(249, 217, 217);
 }
 
 *,
@@ -28,7 +28,7 @@ body {
   text-align: center;
   font-size: calc(7vw + 2rem);
   font-weight: 900;
-  color: rgba(0, 0, 0, 0.1);
+  color: rgba(170, 154, 154, 0.1);
   letter-spacing: 2px;
   margin: -0.3em 0 0.5em;
 }
